@@ -1,6 +1,6 @@
 
 
-# ${1054 Midterm}
+# {1054 Midterm}
 A collaborative based project in which we debate which character is better Usagi or Momonga.
 ## Installation
 Download the zip files and extract them
