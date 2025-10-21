@@ -1,5 +1,5 @@
-<snippet>
-  <content><![CDATA[
+
+
 # ${1054 Midterm}
 A collaborative based project in which we debate which character is better Usagi or Momonga.
 ## Installation
@@ -18,6 +18,4 @@ TODO: Write history
 Jake Clarke and Yantizhanov Adil
 ## License
 MIT 
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
+
